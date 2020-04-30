@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "ionic-sdk": "~1.2.4",
-    "jquery": "^2.2.1",
+    "jquery": "^3.5.0",
     "lodash": "^4.6.1"
   },
   "devDependencies": {
